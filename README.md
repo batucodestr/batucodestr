@@ -1,14 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Batuhan&fontSize=55&fontColor=fff&animation=twinkling&width=1000" alt="Batuhan's Banner" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=AI+%26+ML+Developer;Backend+Developer;Web+Developer;Prompt+Engineer" alt="Typing SVG" />
-</div>
+# AI Engineer | Backend Developer | Python | Django | C# | ASP.NET Core
 
 <br />
-
-## AI Engineer | Backend Developer | Python | Django | C# | ASP.NET Core
-
----
 
 ### 🛠️ Tech Stack
 
