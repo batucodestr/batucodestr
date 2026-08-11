@@ -1,7 +1,6 @@
-# AI Engineer | Backend Developer | Python | Django | C# | ASP.NET Core
+## AI Engineer | Backend Developer | Python | Django | C# | ASP.NET Core
 
 <br />
-
 ### 🛠️ Tech Stack
 
 ### Backend
