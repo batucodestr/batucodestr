@@ -1,4 +1,4 @@
-## AI Engineer | Backend Developer | Python | Django | Golang
+## AI Engineer | Backend Developer | Python | Django | FastAPI
 
 <br />
 
