@@ -36,7 +36,7 @@
 
 ### 💼 Deneyim
 
-- **BatuCodes** — Kurucu *(Tem 2026 – Devam ediyor)*
+- **BatuCodes** — Kurucu *(Tem 2025 – Devam ediyor)*
 - **İVA Ajans** — Yazılım Mühendisi *(Tem 2026 – Devam ediyor)*
 - **FISCUS AI** — Yazılım Geliştirici *(Kas 2025 – Tem 2026)*
 
