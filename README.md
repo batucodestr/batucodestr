@@ -1,8 +1,8 @@
-## Backend Engineer | Python | Django | FastAPI | Computer Vision
+# Backend Engineer | Python | Django | FastAPI | Computer Vision
 
 <br />
 
- ### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,19 +20,34 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+---
+
+## 🚀 Live Projects
+
+### Web SaaS
+
+[![Reponas](https://img.shields.io/badge/Reponas-Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://reponas-nine.vercel.app/)
+
+### Mobile Apps
+
+[![GarantiKutusu](https://img.shields.io/badge/GarantiKutusu-Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://garantikutusu.vercel.app/)
+
+[![HuccetAI](https://img.shields.io/badge/HuccetAI-Live-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://huccetai.vercel.app/)
 
 ---
 
-### 💼 Deneyim
+## 💼 Experience
 
-- **BatuCodes** — Kurucu *(Tem 2025 – Devam ediyor)*
-- **İVA Ajans** — Yazılım Mühendisi *(Tem 2026 – Devam ediyor)*
-- **FISCUS AI** — Yazılım Geliştirici *(Kas 2025 – Tem 2026)*
+- **BatuCodes** — Founder *(Jul 2025 – Present)*
+- **İVA Ajans** — Software Engineer *(Jul 2026 – Present)*
+- **FISCUS AI** — Software Developer *(Nov 2025 – Jul 2026)*
 
 ---
 
-### 🤝 Connect
+## 🤝 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://batucodes.com/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuyilmaz1/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@flobisoft.com)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@batucodes.com)
