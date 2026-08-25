@@ -23,17 +23,6 @@
 
 ---
 
-### 🚀 Öne Çıkan Projeler
-
-- **[Fiscus AI](https://fiscusai.org)** — GİB uyumlu e-Fatura, ön muhasebe ve AI destekli finans yönetimi SaaS'ı
-- **TÜBİTAK 2209-A Lösemi Teşhis Sistemi** — Periferik kan yayması görüntülerinden lösemi sınıflandırma yapan mobil derin öğrenme sistemi (MobileNetV2, ResNet50, VGG16)
-- **[EcoTrace](https://github.com/batuhanyilmaz1/ecotrace)** — Python uygulamalarının karbon ayak izini ölçen açık kaynak kütüphane
-- **[NeuralMedics](https://github.com/batuhanyilmaz1/neuralmedicsmobileapp)** — Flutter tabanlı, TFLite ile on-device beyin MR tümör sınıflandırma uygulaması
-- **[Plunio](https://plunio.vercel.app/)** — KOBİ'ler için AI destekli sosyal medya içerik üretim platformu
-- **[Hüccet AI](https://huccetai.vercel.app/)** — Kanıt temelli, RAG mimarili İslami araştırma asistanı
-
----
-
 ### 💼 Deneyim
 
 - **BatuCodes** — Kurucu *(Tem 2025 – Devam ediyor)*
