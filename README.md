@@ -1,4 +1,4 @@
-## AI Engineer | Backend Developer | Python | Django | FastAPI
+## Backend Engineer | Python | Django | FastAPI | Computer Vision
 
 <br />
 
