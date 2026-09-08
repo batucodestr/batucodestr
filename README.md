@@ -1,4 +1,4 @@
-# Backend Developer | AI Developer
+# EdTech Specialist | Instructional Designer | Backend & AI Enthusiast | CEIT @ IUC
 
 <br />
 
