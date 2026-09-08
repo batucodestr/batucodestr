@@ -29,7 +29,7 @@
 ## 💼 Experience
 
 - **BatuCodes** — Founder *(Jul 2025 – Present)*
-- **İVA Ajans** — Software Engineer *(Jul 2026 – Present)*
+- **İVA Ajans** — Software Engineer *(Jul 2026 – Sep 2026)*
 - **FISCUS AI** — Software Developer *(Nov 2025 – Jul 2026)*
 
 ---
