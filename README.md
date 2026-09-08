@@ -1,4 +1,4 @@
-# EdTech Specialist | Instructional Designer | Backend & AI/ML | CEIT @ IUC
+# EdTech | Backend & AI/ML | CEIT @ IUC
 
 <br />
 
