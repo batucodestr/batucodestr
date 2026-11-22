@@ -5,7 +5,7 @@
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,js,django,docker,redis,firebase,postgres,sqlite,linux,git,cloudflare,tensorflow,sklearn&perline=13" />
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,js,django,postman,docker,redis,firebase,postgres,sqlite,linux,git,cloudflare,tensorflow,sklearn&perline=13" />
 </p>
 
 ---
