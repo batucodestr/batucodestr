@@ -1,4 +1,4 @@
-# EdTech | Backend & AI/ML | CEIT @ IUC
+# Backend & AI/ML | CEIT @ IUC
 
 <br />
 
@@ -13,4 +13,3 @@
 ## 🤝 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://batucodes.com/)
-
